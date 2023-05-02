@@ -53,4 +53,4 @@ async function validfunction() {
 }
 setTimeout(() => {
     validfunction();
-}, 1000);
+}, 300);
