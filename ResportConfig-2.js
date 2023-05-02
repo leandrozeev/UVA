@@ -31,7 +31,7 @@ async function validfunction() {
                     const ff = document.querySelector('#PanelFile');
                     const tbl = document.querySelector('#TableStep');
                     const dd = document.querySelector('.dropdown');
-                    const rows = tbl.querySelectorAll('.userAllocation');
+                    //const rows = tbl.querySelectorAll('.userAllocation');
 
                     if (ms) ms.style.display = 'none';
                     if (ff) ff.style.display = 'none';
