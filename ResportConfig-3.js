@@ -1,5 +1,4 @@
-async function validfunction() {    
-    alert('ok');
+async function validfunction() {  
     if (window.location.href.indexOf('audit') > 0) {
         const urlGet = '../api/internal/legacy/1.0/datasource/get/1.0/cK9JBALjMx-ZBil7jn8QHmutf4ffb0fayII8pdOMuWRFl5IR1vbsmMASontbLyCcUQLRDKwYiMNueHPKNn6E-Q__';
         const myHeaders = new Headers();
